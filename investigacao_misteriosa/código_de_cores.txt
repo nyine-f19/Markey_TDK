@@ -1,0 +1,3 @@
+Neste arquivo, você encontrará a sequência de cores que deve ser combinada:
+Vermelho, Azul, Verde, Amarelo
+Use esta combinação para abrir a caixa misteriosa!

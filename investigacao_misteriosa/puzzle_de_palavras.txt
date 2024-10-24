@@ -1,0 +1,3 @@
+Aqui estão as palavras que você deve decifrar:
+Gato, Lua, Carro, Casa, Flor
+Use uma cifra de substituição para encontrar a mensagem oculta.

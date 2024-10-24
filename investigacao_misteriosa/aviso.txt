@@ -1,0 +1,12 @@
+Aviso:
+
+Esses arquivos contêm pistas e enigmas que fazem parte da investigação de Mark.
+Cada arquivo é um passo em direção à verdade. Resolva-os e descubra o que está escondido!
+
+1. código_de_cores.txt - Sequência de cores para abrir uma caixa.
+2. puzzle_de_palavras.txt - Palavras que precisam ser decifradas.
+3. sequencia_numerica.txt - Complete a sequência para encontrar um código.
+4. quebra_cabeca_musical.txt - Notas que devem ser tocadas.
+5. codigos_qr_ocultos.txt - Informações sobre códigos QR em imagens.
+6. flashbacks_mark.txt - Momentos importantes da vida de Mark.
+7. conexao_perigosas.txt - Conexões entre desaparecimentos.

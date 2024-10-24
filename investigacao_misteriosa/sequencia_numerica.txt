@@ -1,0 +1,3 @@
+Complete a sequência numérica para descobrir o código:
+1, 1, 2, 3, 5, 8, ?
+O número que você encontrar aqui é a chave para o próximo arquivo.
